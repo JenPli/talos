@@ -1,0 +1,13 @@
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (1, 'ALTAMURA', 'MICHELE', '1988-11-28');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (2, 'DE PALMA', 'ANGELO', '1974-6-1');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (3, 'DE PALMA', 'FRANCESCO', '1949-1-3');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (4, 'DE ZIO', 'LIVIO', '1988-2-23');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (5, 'DELLO RUSSO', 'GIUSEPPE', '1981-7-25');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (6, 'FIORE', 'MICHELE', '1970-5-23');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (7, 'GRAMEGNA', 'GIUSEPPE', '1973-2-3');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (8, 'LA FORTEZZA', 'GAETANA', '1976-9-10');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (9, 'LENTI', 'CAMILLA', '1971-1-16');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (10, 'LOVINO', 'MARCELLO', '1973-6-5');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (11, 'MAZZONE', 'SALVATORE', '1974-6-7');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (12, 'MUSCOGIURI', 'CLAUDIO SALVATORE', '1965-7-7');
+INSERT INTO `ANAGRAFICA_FIDAL` (`ID`, `Cognome`, `Nome`, `DataNascita`) VALUES (13, 'ROSELLI', 'GIACOMO', '1973-6-14');
